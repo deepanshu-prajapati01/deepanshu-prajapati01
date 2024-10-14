@@ -51,7 +51,7 @@ hobbies: [Coding (Fast Learner), Consistency in work]
 
 > As I continue to expand my technical expertise, I am excited to explore emerging technologies and contribute to cutting-edge projects. My journey has only just begun, and I am eager to leverage my skills to create meaningful and impactful solutions.
 
-**Check out [ArcadeCalc]([https://arcadecalc.netlify.app/])** 
+**Check out <a href='https://arcadecalc.netlify.app/'>ArcadeCalc</a>** 
 
 ---
 
