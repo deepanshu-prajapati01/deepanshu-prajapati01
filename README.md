@@ -39,12 +39,12 @@ I am dedicated to growing as a developer, contributing to open-source, and explo
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=deepanshu-prajapati01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-prajapati01&theme=tokyonight&hide_border=false" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-prajapati01&theme=tokyonight&hide_border=false&layout=compact" height="150px"/>
 </p>
 
 <!-- Profile Summary Card -->
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepanshu-prajapati01&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-prajapati01&theme=tokyonight&hide_border=false&layout=compact" height="150px"/>
 </p>
 
 ---
